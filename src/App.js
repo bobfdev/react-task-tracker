@@ -10,19 +10,19 @@ function App() {
       {
           id: 1,
           text: 'Car Wash',
-          day: 'Jan 15th at 12:00pm',
+          date: 'Jan 15th at 12:00pm',
           reminder: true,
       },
       {
           id: 2,
           text: 'Dentist Appointment',
-          day: 'Jan 17th at 8:00am',
+          date: 'Jan 17th at 8:00am',
           reminder: true,
       },
       {
           id: 3,
           text: 'Electric Bill Due',
-          day: 'Jan 31st at 8:00am',
+          date: 'Jan 31st at 8:00am',
           reminder: true,
       },
   ]);
