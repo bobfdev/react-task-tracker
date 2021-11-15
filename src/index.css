@@ -51,6 +51,7 @@ body {
 
 .btn-block {
   display: block;
+  background-color:navy;
   width: 100%;
 }
 
@@ -102,7 +103,7 @@ body {
 }
 
 .form-control-check input {
-  flex: 2;
+  flex: 1;
   height: 20px;
 }
 
